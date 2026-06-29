@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3er047/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃先生醫書八種後跋黃氏醫書向止刻四種見常州張氏宛鄰叢書中近聞牌亦毀餘四種無刻本道光戊戌閔在南昌從包慎伯年丈假得鈔本與陳廣夫三兄各僦人謄出同學中遂多有寫本矣頃客閩學使徐侍朗幕攜八種在篋談次及之侍朗於黃氏素有元賞又濟世壽民之念隨在湧溢不能自已盡付剞劂以廣流傳又念按臨各屬不能攜校同事黃學博元坤深於此事遂留之署中屬專校讎一再審定致為不苟考張刻四種即有訛奪寫存之本舛互益甚長沙二書黃氏移易舊第彌費尋繹學博既詳覆之侍朗又精勘之雖掃葉拂塵昔人所嘆然大體完善矣回思昔日傳鈔之勞一旦海內人得佳本玉楸之道昌靈蘭之術正侍郎之盛心不可及也已江右楊希閔鐵備謹跋
+  hash: sha256:a45ea6f996f8c9e4f2108239ef99c5223b602d6e8fc2e9c00dd139366804ce54
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3er047_jc_000-d22.h1s1}
+metadata:
+  title: 四聖心源
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er047.xml
+hash: sha256:ed6a49a745d7b6e465db853a22bfb1121bf96bb29d6b8d830199a0a985131913
