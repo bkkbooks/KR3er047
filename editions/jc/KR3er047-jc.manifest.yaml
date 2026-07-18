@@ -34,14 +34,13 @@ assets:
   - {seq: 1, role: markers, filename: assets/KR3er047_001-jc.markers.yaml, hash: 'sha256:8df8baf71ff5f8979fea89eefeb09cbbcb5c59c44a35c21201b582dbccd996e7'}
   - {seq: 2, role: markers, filename: assets/KR3er047_002-jc.markers.yaml, hash: 'sha256:d9e3e698fc9f5d13e75bacfd2d4c2f6c3679ae87c9063978fc8fe6860b99c4ce'}
   - {seq: 3, role: markers, filename: assets/KR3er047_003-jc.markers.yaml, hash: 'sha256:ba16d21e7a56ff5d58d2462cf6ff21faeed18ed86a8243490ed16729e68954e1'}
-  - {seq: 4, role: markers, filename: assets/KR3er047_004-jc.markers.yaml, hash: 'sha256:15ac81b2f8243a92d9eb51fe15ff82ebefe72dc6e92b4e03d18eea733d173486'}
-  - {seq: 5, role: markers, filename: assets/KR3er047_005-jc.markers.yaml, hash: 'sha256:27d8dd0525bc9ee9c39388e3ef892449fc2965ed2906257cc41814afa6406e61'}
-  - {seq: 6, role: markers, filename: assets/KR3er047_006-jc.markers.yaml, hash: 'sha256:39641e1fa2d9368de36aa0b24ae806e629d3bb3f840c6210cd510ca4806b4ce2'}
-  - {seq: 7, role: markers, filename: assets/KR3er047_007-jc.markers.yaml, hash: 'sha256:1181499025f825fa2880c4edf46c1615cfedabab62f20687e839a7014f790bde'}
-  - {seq: 8, role: markers, filename: assets/KR3er047_008-jc.markers.yaml, hash: 'sha256:5121a36d9ae3acd1cac9ccc8d2b5983423e7bd2b80cf3311418e62e0cfc0a443'}
-  - {seq: 9, role: markers, filename: assets/KR3er047_009-jc.markers.yaml, hash: 'sha256:9574dbfce6e12b7741a606bf35dbf43355baf97d91cd8629e514850dbe1df131'}
-  - {seq: 10, role: markers, filename: assets/KR3er047_010-jc.markers.yaml, hash: 'sha256:bb4a7bff6c9791579610c7d531831265283e897a1f18b6c73ae3338552fb7291'}
-  - {seq: 0, role: markers, filename: assets/KR3er047_000-jc.markers.yaml, hash: 'sha256:5bd3ce1741bb12c3736ab83ccd1325bc2814bf21c4dce9cdd505eae1137dc828'}
+  - {seq: 4, role: markers, filename: assets/KR3er047_004-jc.markers.yaml, hash: 'sha256:2e525b95b8e954847191aaa186ad8628a7dc5bb4939ec67e54b2a411187360f1'}
+  - {seq: 5, role: markers, filename: assets/KR3er047_005-jc.markers.yaml, hash: 'sha256:319b6d43f98177144fc3182049e37c0fa59bb6b0d7efc4bf9465e707a42c6e29'}
+  - {seq: 6, role: markers, filename: assets/KR3er047_006-jc.markers.yaml, hash: 'sha256:59e52c2109e5d922f55e1ac87ec6df41014de4ebfc853b0bee1eb2c6cbc0b2fa'}
+  - {seq: 7, role: markers, filename: assets/KR3er047_007-jc.markers.yaml, hash: 'sha256:d1c25b42327d2172add88a5fc45bf42d9a971f072e0584f6014eb4ac0adb017f'}
+  - {seq: 8, role: markers, filename: assets/KR3er047_008-jc.markers.yaml, hash: 'sha256:3e9f2c3522127602b1d76ecfd2fd49cacdcb43a370c5ca9a97be54b944dff2ee'}
+  - {seq: 9, role: markers, filename: assets/KR3er047_009-jc.markers.yaml, hash: 'sha256:419bcdde74345a61730aaa79604ff625de3bbc458b6e2c9b91da66bfdb2a0fb9'}
+  - {seq: 10, role: markers, filename: assets/KR3er047_010-jc.markers.yaml, hash: 'sha256:b235933aea673c31b5f779b12417933e4a60983d13a3127a242c28f48e04b10b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1743,4 +1742,4 @@ table_of_contents:
   label: 黃先生醫書八種後跋
   type: section
   level: 1
-hash: sha256:45b4a4d8cf5964164b1a1287249d5f5c0c487dad56a1c3abad08539acf8151d3
+hash: sha256:c90b229c83171b3d300dc642d4264464c465f5788a08f36c234bfb33f2e48192
